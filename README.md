@@ -1,3 +1,3 @@
 # menu-jeremy
-<ol>X-E/12</ol>
-<ol>Projek Web App Development</ol>
+- X-E/12
+- Projek Web App Development
