@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <html lang="en">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,200;1,300&family=Fuggles&family=Montserrat:ital,wght@0,300;1,300&display=swap"
+        rel="stylesheet">
+</head>
+<div class="kongkow">Kongkow Cafe</div>
+<div>
+<img style="aspect-ratio: 2/1 ; object-fit: cover" src="https://s3-alpha-sig.figma.com/img/1990/e6d9/8ff15ecda23da77e4c1f1d0c850f1b7f?Expires=1699833600&Signature=i-MaLMPqF8ybGEXPbqt94r08BeDIunhfg~RIRQsQaxdv14FagjN5yjazE~Sdjh2x6BPom1Gc6vSttNA53WXTGQVpN8u-MvoTO38mnAspl6Pw84YJOqMy7g7RVZBvIDsU1U24kGcc4W6ei-kykhIisr1KsDsQizw6ksxN1dWqMkInGq~M~P3j0bCt47ec9gPCvv69xqhO0tNVqaXoJmlyi-5qLVlaZ3MR47mZqmJ9zxRvZtTKfS4pDYDeTO1wGkTprW9YSB9xgA5VgkwduSDPrg2VV8dmTefo~cCL4H2mUEhpS7MWWC3OHuZjOJB00loXVXbDGAL2tLAWp2nSeGYXhg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    alt="Kongkow Cafe">
+</div>
+<style>
+    * {
+        font-family: "Barlow"
+    }
+    .kongkow {
+        width: 100%;
+        height: 100%;
+        justify-content: center;
+        align-items: flex-start;
+        display: inline-flex;
+        padding: 16px;
+        gap: 16px;
+        color: #F9F6F3;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.15px;
+        word-wrap: break-word;
+        background-color: #F44336;
+    }
+    img {
+        width: 100%;
+    }
+</style>
