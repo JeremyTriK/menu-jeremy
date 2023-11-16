@@ -8,7 +8,8 @@
 </head>
 <div class="kongkow img">Kongkow Cafe</div>
 <div>
-    <img style="aspect-ratio: 2/1 ;" src="https://s3-alpha-sig.figma.com/img/1990/e6d9/8ff15ecda23da77e4c1f1d0c850f1b7f?Expires=1699833600&Signature=i-MaLMPqF8ybGEXPbqt94r08BeDIunhfg~RIRQsQaxdv14FagjN5yjazE~Sdjh2x6BPom1Gc6vSttNA53WXTGQVpN8u-MvoTO38mnAspl6Pw84YJOqMy7g7RVZBvIDsU1U24kGcc4W6ei-kykhIisr1KsDsQizw6ksxN1dWqMkInGq~M~P3j0bCt47ec9gPCvv69xqhO0tNVqaXoJmlyi-5qLVlaZ3MR47mZqmJ9zxRvZtTKfS4pDYDeTO1wGkTprW9YSB9xgA5VgkwduSDPrg2VV8dmTefo~cCL4H2mUEhpS7MWWC3OHuZjOJB00loXVXbDGAL2tLAWp2nSeGYXhg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"alt="Kongkow Cafe">
+    <img style="aspect-ratio: 2/1 ; object-fit: cover"
+        src="https://s3-alpha-sig.figma.com/img/1990/e6d9/8ff15ecda23da77e4c1f1d0c850f1b7f?Expires=1699833600&Signature=i-MaLMPqF8ybGEXPbqt94r08BeDIunhfg~RIRQsQaxdv14FagjN5yjazE~Sdjh2x6BPom1Gc6vSttNA53WXTGQVpN8u-MvoTO38mnAspl6Pw84YJOqMy7g7RVZBvIDsU1U24kGcc4W6ei-kykhIisr1KsDsQizw6ksxN1dWqMkInGq~M~P3j0bCt47ec9gPCvv69xqhO0tNVqaXoJmlyi-5qLVlaZ3MR47mZqmJ9zxRvZtTKfS4pDYDeTO1wGkTprW9YSB9xgA5VgkwduSDPrg2VV8dmTefo~cCL4H2mUEhpS7MWWC3OHuZjOJB00loXVXbDGAL2tLAWp2nSeGYXhg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"alt="Kongkow Cafe">
 </div>
 <div>
     <div class="mid">
@@ -58,6 +59,8 @@
             <div style="text-align: right; color: #424242; font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">60</div>
         </div>
     </div>
+</div>
+<div class="menu">
     <div style="flex: 1 1 0; padding-bottom: 32px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
         <div style="background: white; justify-content: flex-end; align-items: center; display: inline-flex">
             <img style="width: 513.06px; height: 269.50px" src="https://s3-alpha-sig.figma.com/img/176c/86bd/5076e6d19a142a619933c25b1168ac1b?Expires=1700438400&Signature=W2YGvo0AgHZaNhZuCCfWaI9yi90TrGbznamItVafrkxnYigLrPWjvD3RHvf42d9aNkAMsDlBLN-tovxlpUg6ksbrgW4jMW7Mfg4b~oRxcc8m9dN7yd2ymp7yKsBaVOm3mh~VSNIRsgTeGh9aXExyC9uJgj3UnC714Ay1vyO~aqgGQMPCSO2A2y7NaktVJl6dY3eG0cBY0uZTvxjN14yRwT7pbg-aylAmtv1veMD9aIHdUwrwuSjzq2ryMqStDH6IZY~7-OsgghpAbSLmKvel~PziiETkztvVvsgff28hPxjvtypL2mtSORoohYDs6BdmvBsi5VTD~3AKrn2qApWb9g__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" />
@@ -153,7 +156,23 @@
         height: 100%; 
         justify-content: flex-start; 
         align-items: flex-start; 
-        gap: 32px; display: inline-flex; 
+        gap: 84px;
+        display: inline-flex; 
         aspect-ratio: 1;
+    }
+    @media only screen and (max-width: 600px) {
+        img {
+            object-fit: cover;
+            flex: 1;
+            width: 50vw;
+            flex: 1;
+        }
+        div.content {
+            flex-direction: row;
+            width: 100vw;
+        }
+        div.text {
+            flex: 1;
+        }
     }
 </style>
