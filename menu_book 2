@@ -6,104 +6,109 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Barlow&family=Fuggles&family=Montserrat:ital,wght@0,300;1,300&display=swap" rel="stylesheet">
 </head>
-<div class="kongkow img">Kongkow Cafe</div>
+<body></body>
+<div class="kongkow">Kongkow Cafe</div>
 <div>
-    <img style="aspect-ratio: 2/1 ; object-fit: cover"
-        src="https://s3-alpha-sig.figma.com/img/1990/e6d9/8ff15ecda23da77e4c1f1d0c850f1b7f?Expires=1699833600&Signature=i-MaLMPqF8ybGEXPbqt94r08BeDIunhfg~RIRQsQaxdv14FagjN5yjazE~Sdjh2x6BPom1Gc6vSttNA53WXTGQVpN8u-MvoTO38mnAspl6Pw84YJOqMy7g7RVZBvIDsU1U24kGcc4W6ei-kykhIisr1KsDsQizw6ksxN1dWqMkInGq~M~P3j0bCt47ec9gPCvv69xqhO0tNVqaXoJmlyi-5qLVlaZ3MR47mZqmJ9zxRvZtTKfS4pDYDeTO1wGkTprW9YSB9xgA5VgkwduSDPrg2VV8dmTefo~cCL4H2mUEhpS7MWWC3OHuZjOJB00loXVXbDGAL2tLAWp2nSeGYXhg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"alt="Kongkow Cafe">
+    <img style="aspect-ratio: 2/1" src="https://cdn.themistakenman.com/wp-content/uploads/2022/08/fast-food-business.webp"alt="Kongkow Cafe">
 </div>
 <div>
-    <div class="mid">
-        <div style="color: #424242; font-size: 32px; font-family: Barlow; font-weight: 400; line-height: 40px; word-wrap: break-word">
+    <div class="mid color-black">
+        <div style="font-size: 32px; line-height: 40px">
         Friends, Food, Fun</div>
-        <div style="color: #424242; font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">
+        <div style="font-size: 22px; line-height: 28px">
         Kongkow Cafe Menu 2023</div>      
-        <div style="color: #424242; font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">
+        <div style="font-size: 14px; line-height: 20px; letter-spacing: 0.25px">
         All prices are in thousand rupiah </div>
     </div>
 </div>
 <div class="menu">
-    <div style="flex: 1 1 0; padding-bottom: 32px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="padding-bottom: 32px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
         <div style="background: white; justify-content: flex-end; align-items: center; display: inline-flex">
             <img style="width: 513px; height: 269px" src="https://s3-alpha-sig.figma.com/img/f92a/89f0/6e113e48a3854d836e13391124002f37?Expires=1700438400&Signature=blcvRSxsRCmEM5y4uPrIt8GoT0-eg~NlEhU15djHHsa5nENBd2eaZ-cUPzrqIalIEpxdE31Lx~NMbETfvWr-sCkfMap9aHmeKpVhnhhSVeB8wTSgGe4qrUDwGFDRe2Zm8ezVx2uQjy~LeS305Ube31eHnhKPRwkkt3JOovGFXYCl9Bo6vQgrJ48jxMnwZsytuV~bfAT0JQgBMDUA0FzsR5PR5QTl5DyLmgj3pWxUTh8YONNdRlqgE2U4i2La6UfF8dEf673F~XOsDu3dWd~7lpRldQGSZZFrxRZvwE~hWZiycwdZtd29FPnW6zfG0O01dy0QVkmovf9MFfM4j4wRLg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" />
         </div>
         <div style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 8px; padding-bottom: 8px; justify-content: center; align-items: center; display: inline-flex">
-            <div style="flex: 1 1 0; text-align: center; color: #424242; font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">Avocado Pesto Salad</div>
+            <div style="text-align: center;  font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">Avocado Pesto Salad</div>
         </div>
         <div style="align-self: stretch; height: 64px; padding-bottom: 16px; padding-left: 16px; padding-right: 16px; justify-content: center; align-items: flex-start; display: inline-flex">
-            <div style="flex: 1 1 0; text-align: center; color: #424242; font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">“Home-grown vegetables with loads of avocado, topped with mouthwatering pesto salad” </div>
+            <div style="text-align: center;  font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">“Home-grown vegetables with loads of avocado, topped with mouthwatering pesto salad” </div>
         </div>
         <div style="align-self: stretch; padding-left: 16px; padding-right: 16px; justify-content: flex-end; align-items: center; display: inline-flex">
-            <div style="flex: 1 1 0; text-align: right; color: #424242; font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">35</div>
+            <div style="text-align: right;  font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">35</div>
         </div>
         <div style="align-self: stretch; padding-left: 16px; padding-right: 16px; justify-content: flex-end; align-items: center; display: inline-flex">
-            <div style="flex: 1 1 0; color: #424242; font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">+ Grilled Salmon</div>
-            <div style="text-align: right; color: #424242; font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">55</div>
+            <div style=" font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">+ Grilled Salmon</div>
+            <div style="text-align: right;  font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">55</div>
         </div>
     </div>
-    <div style="flex: 1 1 0; padding-bottom: 32px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="padding-bottom: 32px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
         <div style="padding-top: 0.50px; background: white; justify-content: flex-end; align-items: center; display: inline-flex">
             <img style="width: 514px; height: 270px" src="https://s3-alpha-sig.figma.com/img/8085/62bf/f4d899c25e637f1aa3df6fdc4a37a044?Expires=1700438400&Signature=MXi97L75fRC0kK5eF~DiMW44LbNgu-4f4RzLFRaoeKcbKEFFpGXQQc2A19sNdeLwS0I7HrCvqtj8xkeJd3RclurcQjCWCamoe~YgLGqrhORzMN10j0MGuu2n8JfeQOH5Fq209FvQ1y2OT4iwCUacV45JqaVkE9XVRbjP3SRu6Mo3tFDvNpCI0pue1IRJ5van4LSs0fJjTpQRjoklSEpXUm~U~x3GJzmRKIbzi6QaoTjsTf0DHmjnHKkwdTJChqn3CLIzDom9vWKFgSlO~wXNg7c08It0D3IH9p4-0J~qMYSqR5DKYK0Jv58qhuMqgy7F8emNSsj9xaLQXucpZUvssw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" />
         </div>
         <div style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 8px; padding-bottom: 8px; justify-content: center; align-items: center; display: inline-flex">
-            <div style="flex: 1 1 0; text-align: center; color: #424242; font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">Triple Cheese Pizza</div>
+            <div style="text-align: center;  font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">Triple Cheese Pizza</div>
         </div>
         <div style="align-self: stretch; height: 64px; padding-bottom: 16px; padding-left: 16px; padding-right: 16px; justify-content: center; align-items: flex-start; display: inline-flex">
-            <div style="flex: 1 1 0; text-align: center; color: #424242; font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">“Indulge yourself in this simple yet delicious delicacy”</div>
+            <div style="text-align: center;  font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">“Indulge yourself in this simple yet delicious delicacy”</div>
         </div>
         <div style="align-self: stretch; padding-left: 16px; padding-right: 16px; justify-content: flex-end; align-items: center; display: inline-flex">
-            <div style="flex: 1 1 0; color: #424242; font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">1 Slice</div>
-            <div style="text-align: right; color: #424242; font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">15</div>
+            <div style=" font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">1 Slice</div>
+            <div style="text-align: right;  font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">15</div>
         </div>
         <div style="align-self: stretch; padding-left: 16px; padding-right: 16px; justify-content: flex-end; align-items: center; display: inline-flex">
-            <div style="flex: 1 1 0; color: #424242; font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">Pan (6 slices)</div>
-            <div style="text-align: right; color: #424242; font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">60</div>
+            <div style=" font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">Pan (6 slices)</div>
+            <div style="text-align: right;  font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">60</div>
         </div>
     </div>
-</div>
-<div class="menu">
-    <div style="flex: 1 1 0; padding-bottom: 32px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="padding-bottom: 32px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
         <div style="background: white; justify-content: flex-end; align-items: center; display: inline-flex">
             <img style="width: 513.06px; height: 269.50px" src="https://s3-alpha-sig.figma.com/img/176c/86bd/5076e6d19a142a619933c25b1168ac1b?Expires=1700438400&Signature=W2YGvo0AgHZaNhZuCCfWaI9yi90TrGbznamItVafrkxnYigLrPWjvD3RHvf42d9aNkAMsDlBLN-tovxlpUg6ksbrgW4jMW7Mfg4b~oRxcc8m9dN7yd2ymp7yKsBaVOm3mh~VSNIRsgTeGh9aXExyC9uJgj3UnC714Ay1vyO~aqgGQMPCSO2A2y7NaktVJl6dY3eG0cBY0uZTvxjN14yRwT7pbg-aylAmtv1veMD9aIHdUwrwuSjzq2ryMqStDH6IZY~7-OsgghpAbSLmKvel~PziiETkztvVvsgff28hPxjvtypL2mtSORoohYDs6BdmvBsi5VTD~3AKrn2qApWb9g__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" />
         </div>
         <div style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 8px; padding-bottom: 8px; justify-content: center; align-items: center; display: inline-flex">
-            <div style="flex: 1 1 0; text-align: center; color: #424242; font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">Seasonal Wine</div>
+            <div style="text-align: center;  font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">Seasonal Wine</div>
         </div>
         <div style="align-self: stretch; height: 64px; padding-bottom: 16px; padding-left: 16px; padding-right: 16px; justify-content: center; align-items: flex-start; display: inline-flex">
-            <div style="flex: 1 1 0; text-align: center; color: #424242; font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">“A great meal becomes perfect when combined with a good wine”</div>
+            <div style="text-align: center;  font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">“A great meal becomes perfect when combined with a good wine”</div>
         </div>
         <div style="align-self: stretch; padding-left: 16px; padding-right: 16px; justify-content: flex-end; align-items: center; display: inline-flex">
-            <div style="flex: 1 1 0; color: #424242; font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">Glass</div>
-            <div style="text-align: right; color: #424242; font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">100</div>
+            <div style=" font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">Glass</div>
+            <div style="text-align: right;  font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">100</div>
         </div>
         <div style="align-self: stretch; padding-left: 16px; padding-right: 16px; justify-content: flex-end; align-items: center; display: inline-flex">
-            <div style="flex: 1 1 0; color: #424242; font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">Bottle</div>
-            <div style="text-align: right; color: #424242; font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">1500</div>
+            <div style=" font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">Bottle</div>
+            <div style="text-align: right;  font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">1500</div>
         </div>
     </div>
-    <div style="flex: 1 1 0; padding-bottom: 32px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="padding-bottom: 32px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
         <div style="padding-top: 0.50px; background: white; justify-content: flex-end; align-items: center; display: inline-flex">
             <img style="width: 513px; height: 269px" src="https://s3-alpha-sig.figma.com/img/dbfc/4b7d/b3205188bf24e5abbb223203310c7cbb?Expires=1700438400&Signature=H5VTT12bP~-xkonG13nfk9DkKqugJUSbHHHigZQjYfbqkEewf4I9MpuzKh-ThSzsf~yUMqyEd9IcbkeCAvq8PEg0UnaSTTnjVaYv71mW5LL64ORLH4QaGACGaLtNjMZObtBr~eWeN5esQAzBYIlN1qcN8TuvFEmo0AxMzdqvGEf-KuCnQrqmQ2U0c9jSk5EuskeV7v6BLmXpKGUSSkgOqt005ZbMHIEtW88eiJpJqAoHzYo5ljFjpLsXH2i61wOWNvozEqx9BcG1e3syVGvQUUMEaSefuK6vUnIuqxr3bkkkSxkBClrTbML~9ucXmHEvAApUGPtj8Xairc~gDF5GwQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" />
         </div>
         <div style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 8px; padding-bottom: 8px; justify-content: center; align-items: center; display: inline-flex">
-            <div style="flex: 1 1 0; text-align: center; color: #424242; font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">Coffee</div>
+            <div style="text-align: center;  font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">Coffee</div>
         </div>
         <div style="align-self: stretch; height: 64px; padding-bottom: 16px; padding-left: 16px; padding-right: 16px; justify-content: center; align-items: flex-start; display: inline-flex">
-            <div style="flex: 1 1 0; text-align: center; color: #424242; font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">“The best coffee you can have from the land of Indonesia”</div>
+            <div style="text-align: center;  font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">“The best coffee you can have from the land of Indonesia”</div>
         </div>
         <div style="align-self: stretch; padding-left: 16px; padding-right: 16px; justify-content: flex-end; align-items: center; display: inline-flex">
-            <div style="flex: 1 1 0; color: #424242; font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">Americano</div>
-            <div style="text-align: right; color: #424242; font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">25</div>
+            <div style=" font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">Americano</div>
+            <div style="text-align: right;  font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">25</div>
         </div>
         <div style="align-self: stretch; padding-left: 16px; padding-right: 16px; justify-content: flex-end; align-items: center; display: inline-flex">
-            <div style="flex: 1 1 0; color: #424242; font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">Latte</div>
-            <div style="text-align: right; color: #424242; font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">30</div>
+            <div style=" font-size: 14px; font-family: Barlow; font-weight: 400; line-height: 20px; letter-spacing: 0.25px; word-wrap: break-word">Latte</div>
+            <div style="text-align: right;  font-size: 22px; font-family: Barlow; font-weight: 400; line-height: 28px; word-wrap: break-word">30</div>
         </div>
     </div>
 </div>
+</body>
 <style>
     * {
         font-family: "Barlow";
         background-color:#F9F6F3;
+    }
+    .color-black{
+        color:#424242;
+        font-family: Barlow; 
+        font-weight: 400;
+        word-wrap: break-word;
     }
     .kongkow {
         width: 100%;
@@ -145,12 +150,6 @@
         flex-direction: column;
         gap: 16px;
     }
-    .appbar {
-        padding: 16px;
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-    }
     .menu {
         width: 100%; 
         height: 100%; 
@@ -159,20 +158,18 @@
         gap: 84px;
         display: inline-flex; 
         aspect-ratio: 1;
+        flex: 1 1 0;
+        color: #424242
     }
-    @media only screen and (max-width: 600px) {
-        img {
-            object-fit: cover;
-            flex: 1;
-            width: 50vw;
-            flex: 1;
-        }
-        div.content {
+    @media only screen and (min-width: 600px) {
+        .frame-group{
             flex-direction: row;
-            width: 100vw;
+            flex-wrap: wrap;
+            justify-content: space-between;
         }
-        div.text {
-            flex: 1;
-        }
+        .frame-container{
+            width: calc(50%-16px);
+            margin: 8px;
     }
+}
 </style>
