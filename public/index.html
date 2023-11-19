@@ -225,12 +225,16 @@
         display: inline-flex;
     }
     .container {
-        display: grid;
-        grid-template-columns: repeat(4, 1fr);
         flex-wrap: wrap;
         justify-content: space-between;
         flex-direction: row;
         
+    }
+    @media only screen and (max-width: 1200px) {
+        .container {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+        }
     }
     .box {
         flex: 1;
