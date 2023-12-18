@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
+<html lang="en">
     <head>
-        <html lang="en">
+        <meta name="viewport" content="width=device-width,initial-scale=1"/>
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Barlow&family=Fuggles&family=Montserrat:ital,wght@0,300;1,300&display=swap" rel="stylesheet">
@@ -76,7 +77,7 @@
             </div>
             <div class="main box">
                 <div class="divimg" style="padding-top: 0.50px">
-                    <img src="https://cdn.vox-cdn.com/thumbor/0spbbgyWxgwuWpk8QOCZi2Ym3Kk=/0x0:1599x1066/1200x900/filters:focal(673x406:927x660)/cdn.vox-cdn.com/uploads/chorus_image/image/63217666/i_qNz6LTF_X3.97.jpg" alt="Coffee"/>
+                    <img src="https://s3-alpha-sig.figma.com/img/dbfc/4b7d/b3205188bf24e5abbb223203310c7cbb?Expires=1704067200&Signature=XMb1py~T2GL8u09dJ1ujlVGfQKggYmhC8fNJT8hzVlIGy1YbVF1vi53g~rGpOJlML9UTtykcxzClqZL~-bTVapd1OVfvNAs3AOksqF8hXC10Cp0osxVOJ7OALnL9X06z9c~43FlnZ68bxt6i~~d-8KOmWuPwNwfQva3M8iAsaG9Dhu3-sWH0Yhi70HUdDaBrjCZ0T6aPhc6aDvQVkBCZiUPvM0AFcXS14qTFyxSGk4bv03wBrE4onL41qXBDLQhrMibG20RA-2ZsZc2tldgpZFz8wFBrvLcsiHXpr~Bdp8zbWCzyl7o3juM~lynncnsMIaPihdYzfKJdR1PpJWP5-A__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" alt="Coffee"/>
                 </div>
                 <div class="set1">
                     <div class="menu-title">Coffee</div>
@@ -229,13 +230,21 @@
         }
         .container {
             flex-wrap: wrap;
-            justify-content: center;
+            justify-content: space-between;
         }
-        .box {
+        @media only screen and (max-width: 1200px) {
+            .container {
+                width: 100%;
+                display: grid;
+                grid-template-columns: repeat(4, 1fr);
+                flex-direction: row;
+            }
+            .box {
                 flex: 1;
                 padding: left;
                 float: left;
                 box-sizing: border-box;
+            }
         }
         @media only screen and (max-width: 600px) {
             .box { 
@@ -244,8 +253,6 @@
             .container {
             grid-template-columns:repeat(2,1fr);
             flex-direction: column;
-            flex-wrap: wrap;
-            justify-content: space-between
             }
         }
     </style>
